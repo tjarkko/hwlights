@@ -12,16 +12,6 @@ build/
 # Arduino core libraries
 libraries/
 
-# Arduino IDE project files
-*.ino
-*.cpp
-*.h
-*.c
-*.s
-*.pde
-*.pl
-*.py
-
 # Arduino IDE settings
 *.xml
 *.properties
